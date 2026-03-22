@@ -74,6 +74,10 @@ The main physical components of this layout are:
 - Record similar measurements for comparison.  
 
 ---
+## Tabulation and Calculation:
+![output](A1.jpeg)
+![output](A2.jpeg)
+
 
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
